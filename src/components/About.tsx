@@ -19,10 +19,10 @@ export const About = () => {
             </div>
         </div>
         <div className=" w-[327px] h-[301px] mt-[26px] mx-auto md:hidden">
-            <img className="w-full h-full " src="../../public/img.png" alt="" />
+            <img className="w-full h-full " src="public/img.png" alt="" />
         </div>
         <div className="hidden md:block  w-[900px]  overflow-hidden">
-            <img className=' md:block w-fill translate-x-[220px] -translate-y-[100px]' src="../../public/img2.png" alt="" />
+            <img className=' md:block w-fill translate-x-[220px] -translate-y-[100px]' src="public/img2.png" alt="" />
          </div>
     </section>
   )
